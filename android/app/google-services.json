@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413641705551",
+    "project_id": "assetsmanagement-c4894",
+    "storage_bucket": "assetsmanagement-c4894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413641705551:android:7f2c268981e7084a8e423a",
+        "android_client_info": {
+          "package_name": "com.example.assetManagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413641705551-3facjsovhodiv6mql49foccqljm6j69c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwzQ2AHblX-LpInYbA5GEK_VSPflsb4tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413641705551-3facjsovhodiv6mql49foccqljm6j69c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
